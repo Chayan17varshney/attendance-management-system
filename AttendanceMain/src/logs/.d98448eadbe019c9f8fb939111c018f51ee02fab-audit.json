@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/attendance/attendance_backend2/src/logs/.d98448eadbe019c9f8fb939111c018f51ee02fab-audit.json",
+    "files": [
+        {
+            "date": 1742334886614,
+            "name": "/home/attendance/attendance_backend2/src/logs/app-2025-03-19.log",
+            "hash": "35beae1d44bbc60b1a5abfc915045ce75bcab195c5c554a151b5a6932a359e78"
+        }
+    ],
+    "hashType": "sha256"
+}

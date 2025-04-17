@@ -1,0 +1,6 @@
+[submodule "AttendanceReport2"]
+	path = AttendanceReport2
+	url = https://github.com/Yogananda1504/AttendanceReport2.git
+[submodule "Frontend-ReportGeneration"]
+	path = Frontend-ReportGeneration
+	url = https://github.com/Yogananda1504/Frontend-ReportGeneration.git

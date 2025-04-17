@@ -1,0 +1,140 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/attendance/attendance_backend2/logs/cleanedLogs/.13dcec0934af4ee5cfc5d507aa4964692943c566-audit.json",
+    "files": [
+        {
+            "date": 1742670670889,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-03-23.log",
+            "hash": "79536c1c8b52afd19763a51ca16fb9fa0dd35bca1335cdcd48b6009b9c02a00e"
+        },
+        {
+            "date": 1742754632217,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-03-24.log",
+            "hash": "fa12ca60cfc671019329f027b5c663923e93951b90ea4f003807fa7bdc3821b2"
+        },
+        {
+            "date": 1742841154955,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-03-25.log",
+            "hash": "5313c98b26ed0f6270a578a40aace087df5380c309204fe8cf85c71c97b457f8"
+        },
+        {
+            "date": 1742927553173,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-03-26.log",
+            "hash": "ea1bc60aab22553e5514e3daa0dec7bc8dd21e2511f4be470b225dfdca6afda5"
+        },
+        {
+            "date": 1743014296901,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-03-27.log",
+            "hash": "15a2ba779ad104278865489fe2133c38c471434ddb884cbb5b718ab69dfe6af9"
+        },
+        {
+            "date": 1743100340492,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-03-28.log",
+            "hash": "9b202ebb4227984e7fee4356775a3894c647fb441116c11bf60e64cc1f6992c5"
+        },
+        {
+            "date": 1743186656237,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-03-29.log",
+            "hash": "1a73ce3d6cb4e95b7a7a582c0a0d7e9520f7a1ca5646fcd8a7addc13cf16c095"
+        },
+        {
+            "date": 1743273017218,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-03-30.log",
+            "hash": "905ac9b93287bccc7a32e87e431db991a5ceacc809db4c1068d3c7aee03d51f3"
+        },
+        {
+            "date": 1743359450520,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-03-31.log",
+            "hash": "c887b0549e1618d1cd444d1b25d91b1a6cb4a9d769cdb5b39cb61d846c0724f3"
+        },
+        {
+            "date": 1743446131418,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-01.log",
+            "hash": "f0295a0bcd62c63865a3d0e1de8db50521c4dfcd1cb1fbde9cab1f2ba4a01b5e"
+        },
+        {
+            "date": 1743532706917,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-02.log",
+            "hash": "b96070ac487dce8095109652c0c62ab3d482a1bdbbb561f530c4e68ca5146fc9"
+        },
+        {
+            "date": 1743618763860,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-03.log",
+            "hash": "bfdee43baed414811cd933ec6a6e8b8c0267656da75c614ce05ccc896c9d59ba"
+        },
+        {
+            "date": 1743705111018,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-04.log",
+            "hash": "ee924664bf00109b0ada8a8b46abca0caeae11f20d85881472eb693b5bf21535"
+        },
+        {
+            "date": 1743791678947,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-05.log",
+            "hash": "2379c963413221e449547527e87f63cf97c45a238db92bb7a8133d845e22f6ff"
+        },
+        {
+            "date": 1743877981826,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-06.log",
+            "hash": "9c15e189438f99d933d7c1e49ce0e8d2f6241e4c29f9d2ed462a2e5bf45b8968"
+        },
+        {
+            "date": 1743965122185,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-07.log",
+            "hash": "104db76b51bd0d1efc79ae559554044a867f09554cf204faea2a5b8486d517ee"
+        },
+        {
+            "date": 1744050604698,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-08.log",
+            "hash": "2fd24eebd34e6cbcb85a723d8dc3a83028aeeed52889ca075e6098134d57a0f5"
+        },
+        {
+            "date": 1744137654919,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-09.log",
+            "hash": "935172a2620557ea5854ba919cd86eb35a463350c82e4ffa25cb83944522266b"
+        },
+        {
+            "date": 1744225820082,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-10.log",
+            "hash": "d72df9d96fcdfafe9cdcdabc263c01a0626be3c730e79134c38b79e7fd67ff3e"
+        },
+        {
+            "date": 1744336964551,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-11.log",
+            "hash": "a9549b5f167ab371c996621a63137d1f335c1627958ea651233f487f83e6544d"
+        },
+        {
+            "date": 1744437546064,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-12.log",
+            "hash": "0e4860ed3edd5c63a91a5ba901c02b26c61831acc44751c24be530607ea6ed61"
+        },
+        {
+            "date": 1744545473349,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-13.log",
+            "hash": "098ba158eba6bc776cca247bb9f544218bb71fd126eb470f4c776bdcfe0ae885"
+        },
+        {
+            "date": 1744581299255,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-14.log",
+            "hash": "5fb451e8ab64ac1cd2502f5912a7f7dafed1ee343ed5a239f09b4144d3a3dd0c"
+        },
+        {
+            "date": 1744685199077,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-15.log",
+            "hash": "7d05e1c30bfc2dfe5debcc658b4c51f15abda9a32823470639de1bedd2e3fb58"
+        },
+        {
+            "date": 1744744519011,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-16.log",
+            "hash": "4a1ca9092cc61e5e6257d92f84a68ccbe81f49541930b702ecffb6afedc9c1a7"
+        },
+        {
+            "date": 1744861558759,
+            "name": "/home/attendance/attendance_backend2/logs/cleanedLogs/attendance-2025-04-17.log",
+            "hash": "342636c09d293fcb7d3891325f067d380b8b126a156a6a33715e8b9c92b46658"
+        }
+    ],
+    "hashType": "sha256"
+}

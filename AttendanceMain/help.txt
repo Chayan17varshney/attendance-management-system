@@ -1,0 +1,5 @@
+clone db:
+ mongodump --uri "mongodb://attendance:attendance_app_2024@mdb.manit.ac.in:27017/attendance?authSource=attendance" --out "./"     
+
+ restore db:
+  mongorestore --db attendance2 ./attendance   

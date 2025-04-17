@@ -1,0 +1,114 @@
+{
+    "swagger":"2.0",
+    "info":{
+        "version":"1.0.0",
+        "description":"API for MANIT Attendance application",
+        "title":"Attendance API"
+    },
+    "host":"",
+    "securityDefinitions":{"JWT":{
+        "in":"header",
+        "name":"Authorization",
+        "type":"apiKey"
+    }},
+    "paths":{
+        "/api/products":{
+            "get":{
+                "tags":["Products"],
+                "summary":"Get Products",
+                "description":"User will get all the products",
+                "security":[{"JWT":{}}],
+                "responses":{
+                    "200":{
+                        "description":"OK"
+                    },
+                    "401":{
+                         "description":"Unauthorized"
+                    }
+                }
+            }
+        },
+        "/api/user/signIn":{
+            "post":{
+                "tags":["Users"],
+                "summary":"Login",
+                "description":"User login to get token",
+                "parameters":[
+                    {
+                        "in":"body",
+                        "name":"body",
+                        "description":"User Credentials",
+                        "schema":{
+                            "type":"object",
+                            "properties":{
+                                "employeeCode":{
+                                    "type":"string"
+                                },
+                                "password":{
+                                    "type":"string"
+                                }
+                            }
+                        }
+                    }
+                ],
+                "responses":{
+                    "200":{
+                        "description":"OK"
+                    },
+                    "400":{
+                         "description":"Incorrect Credentials"
+                    }
+                }
+            }
+        },
+        "/api/user/signUp":{
+            "post":{
+                "tags":["Users"],
+                "summary":"Login",
+                "description":"User login to get token",
+                "parameters":[
+                    {
+                        "in":"body",
+                        "name":"body",
+                        "description":"User Credentials",
+                        "schema":{
+                            "type":"object",
+                            "properties":{
+                                "employeeCode":{
+                                    "type":"string"
+                                },
+                                "password":{
+                                    "type":"string"
+                                }
+                            }
+                        }
+                    }
+                ],
+                "responses":{
+                    "200":{
+                        "description":"OK"
+                    },
+                    "400":{
+                         "description":"Incorrect Credentials"
+                    }
+                }
+            }
+        },
+        "/api/timetable/":{
+            "get":{
+                "tags":["TimeTable"],
+                "summary":"Get TimeTable",
+                "description":"get TimeTable ",
+                "security":[{"JWT":{}}],
+                "responses":{
+                    "200":{
+                        "description":"OK"
+                    },
+                    "401":{
+                         "description":"Unauthorized"
+                    }
+                }
+            }
+        }
+    }
+}
